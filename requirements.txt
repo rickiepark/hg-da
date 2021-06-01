@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+jupyter
+scikit-learn
+chardet
+gdown
+xlsxwriter
